@@ -1,8 +1,7 @@
-<h1 align="center">Hi there, I'm Abdullah Emir 👋</h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=50&pause=1000&color=B176F7&width=435&lines=Abdullah+Emir+%C3%96ner" alt="Typing SVG" /></a>
-
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=45&pause=1000&color=374962&width=435&lines=Hi+there%2C+I'm+Abdullah+Emir" alt="Typing SVG" /></a>
+  
 ### 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AbdullahEmirOner&show_icons=true&theme=radical" alt="Abdullah Emir's GitHub stats" />
@@ -11,7 +10,7 @@
 
 ### 🛠️ Technologies & Tools
 <p align="center">
-    ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python
+    ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
     ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)
 </p>
 
