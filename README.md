@@ -1,4 +1,6 @@
-# Hi there, I'm Abdullah Emir! 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Sixtyfour+Convergence&pause=1000&color=B176F7&width=435&lines=Abdullah+Emir+%C3%96ner)](https://git.io/typing-svg)
+
+![Name Shape](https://github.com/AbdullahEmirOner/yourrepo/blob/main/name-shape.png)
 
 ### 💻 About Me
 I am a software engineer . Im adding everything I've learned here!  I am interested in Network security,Linux, Cyber security, Python and Bash/Shell Script.
