@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Sixtyfour+Convergence&size=50&pause=1000&color=B176F7&width=435&lines=Abdullah+Emir+%C3%96ner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&size=50&pause=1000&color=B176F7&width=435&lines=Abdullah+Emir+%C3%96ner)](https://git.io/typing-svg)
 
 ### 💻 About Me
 I am a software engineer . Im adding everything I've learned here!  I am interested in Network security,Linux, Cyber security, Python and Bash/Shell Script.
