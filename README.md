@@ -1,18 +1,28 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&size=50&pause=1000&color=B176F7&width=435&lines=Abdullah+Emir+%C3%96ner)](https://git.io/typing-svg)
+<h1 align="center">Hi there, I'm Abdullah 👋</h1>
 
-### 💻 About Me
-I am a software engineer . Im adding everything I've learned here!  I am interested in Network security,Linux, Cyber security, Python and Bash/Shell Script.
-
-- 🌱 I am currently one of the newest members in the field of **cybersecurity**!
-- 👯 I’m looking to collaborate on any cybersecurity and open-source projects
-- 📫 How to reach me: [abdullahemironer@gmail.com](mailto:your.email@example.com)
-- ⚡ Fun fact: I love exploring new technologies and meeting people!
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Siber+G%C3%BCvenlik+Uzman%C4%B1;Merhaba%2C+Ben+Do%C4%9Fukan+Kurnaz!">
+</p>
 
 ### 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdullahEmirOner&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dogukankurnaz&show_icons=true&theme=radical" alt="Doğukan's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dogukankurnaz&theme=radical" alt="Doğukan's GitHub Streak Stats" />
+</p>
 
-### 🛠️ Languages and Tools
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)
+### 🛠️ Technologies & Tools
+<p align="center">
+    ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+    ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+    ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)
+</p>
 
 ### 🌐 Connect with Me
-[![Linkedin: Abdullah Emir Öner](https://img.shields.io/badge/-Abdullah%20Emir%20Öner-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdullah-emir-%C3%B6ner/)](https://www.linkedin.com/in/abdullah-emir-%C3%B6ner/)
+<p align="center">
+    <a href="https://www.linkedin.com/in/dogukan-kurnaz/">
+        <img src="https://img.shields.io/badge/LinkedIn-Doğukan%20Kurnaz-blue?style=flat-square&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:email@example.com">
+        <img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail&logoColor=white" />
+    </a>
+</p>
